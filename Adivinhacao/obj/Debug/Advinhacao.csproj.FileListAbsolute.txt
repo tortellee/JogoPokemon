@@ -1,0 +1,20 @@
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Advinhacao.csprojAssemblyReference.cache
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Adivinhacao.formAdvinhacao.resources
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Adivinhacao.Properties.Resources.resources
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Advinhacao.csproj.GenerateResource.cache
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Advinhacao.csproj.CoreCompileInputs.cache
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\Adivinhacao\bin\Debug\Adivinhacao.exe.config
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\Adivinhacao\bin\Debug\Adivinhacao.exe
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\Adivinhacao\bin\Debug\Adivinhacao.pdb
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Adivinhacao.exe
+C:\Users\senac\Documents\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Adivinhacao.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\Adivinhacao\bin\Debug\Adivinhacao.exe.config
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\Adivinhacao\bin\Debug\Adivinhacao.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\Adivinhacao\bin\Debug\Adivinhacao.pdb
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Advinhacao.csprojAssemblyReference.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Adivinhacao.formAdvinhacao.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Adivinhacao.Properties.Resources.resources
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Advinhacao.csproj.GenerateResource.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Advinhacao.csproj.CoreCompileInputs.cache
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Adivinhacao.exe
+D:\BACK UP\BACKUP\Meus Documentos\Curso T.I\Tortelle\Tortelle\Visual Studio Form\Jogos\Adivinhacao\obj\Debug\Adivinhacao.pdb
